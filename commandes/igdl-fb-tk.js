@@ -104,7 +104,7 @@ async (dest, zk, commandeOptions) => {
 
        zk.sendMessage(dest,{image : { url : result.thumbnail}, caption : caption},{quoted : ms}) ;
 
-       zk.sendMessage(dest, { video: { url: result.hd  }, caption: 'facebook video downloader powered by *Miku-md*' }, { quoted: ms });
+       zk.sendMessage(dest, { video: { url: result.hd  }, caption: 'facebook video downloader powered by *Gracie-md*' }, { quoted: ms });
 
       
 
@@ -228,7 +228,7 @@ async (dest, zk, commandeOptions) => {
 
        zk.sendMessage(dest,{image : { url : result.thumbnail}, caption : caption},{quoted : ms}) ;
 
-       zk.sendMessage(dest, { video: { url: result.sd  }, caption: 'facebook video downloader powered by *Miku-md*' }, { quoted: ms });
+       zk.sendMessage(dest, { video: { url: result.sd  }, caption: 'facebook video downloader powered by *Gracie-md*' }, { quoted: ms });
 
       
 
