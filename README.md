@@ -1,11 +1,11 @@
 
-   <img src="https://c.top4top.io/p_3235wgt8w1.jpg">
+   <img src="https://files.fm/f/rbdknrxqmw">
 </p>
 
-<h1 align="center">QUEEN_MIKU-MD - MultiDevice</h1>
+<h1 align="center">QUEEN_GRACEY-MD - MultiDevice</h1>
 
 <p align="center">
-  <a href="https://github.com/PikaBotz"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Queen+Miku+MultiDevice;New+Plugin+Base+Modification;Developed+by+Malvin+King;Give+star+and+forks+this+Repo+🌟" alt="AnyaReadme"></a>
+  <a href="https://github.com/PikaBotz"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Queen+Miku+MultiDevice;New+Plugin+Base+Modification;Developed+by+ALVINO;Give+star+and+forks+this+Repo+🌟" alt="AnyaReadme"></a>
 </p>
 
 ---
@@ -18,7 +18,7 @@
     
 | Owner 👤             | Repo 🤖              | Forks 🍽️             | Stars 🌟            | Language 🗣️        | Licence 🪪              
 |----------------------|----------------------|----------------------|---------------------|---------------------|---------------------|
-| [![Owner](https://img.shields.io/badge/Author-Malvin_King-red.svg)](https://github.com/kingmalvn/) | [![Repository](https://img.shields.io/badge/Repo_Queen_Miku-MD-red.svg)](https://github.com/kingmalvn/Queen_Miku-MD) | [![GitHub forks](https://badgen.net/github/forks/kingmalvn/Queen_Miku-MD/)](https://GitHub.com/kingmalvn/Queen_Miku-MD/network/) | [![GitHub stars](https://badgen.net/github/stars/kingmalvn/Queen_Miku-MD)](https://GitHub.com/kingmalvn/QUEEN_MIKU-MD/stargazers/) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | [![GitHub license](https://img.shields.io/github/license/kingmalvn/Queen_Miku-MD.svg)](https://github.com/kingmalvn/Queen_Miku-MD/blob/master/LICENSE) 
+| [![Owner](https://img.shields.io/badge/Author-ALVIN-red.svg)](https://github.com/Mike352-design/Tekken-md/) | [![Repository](https://img.shields.io/badge/Repo-Queen_GRACY-MD-red.svg)](https://github.com/Mike352-design/Tekken-md) | [![GitHub forks](https://badgen.net/github/forks/Mike352-design/Tekken-md/)](https://GitHub.com/kingmalvn/Queen_Miku-MD/network/) | [![GitHub stars](https://badgen.net/github/stars/kingmalvn/Queen_Miku-MD)](https://GitHub.com/kingmalvn/QUEEN_MIKU-MD/stargazers/) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | [![GitHub license](https://img.shields.io/github/license/kingmalvn/Queen_Miku-MD.svg)](https://github.com/kingmalvn/Queen_Miku-MD/blob/master/LICENSE) 
 
 | Version 💻              | Last Commit 💫              | Maintained 🤌🏻             |
 |---------------------|---------------------|---------------------|
@@ -30,7 +30,7 @@
 
 
 
-## QUEEN_MIKU-MD Deployment Methods
+## QUEEN_GRACEY-MD Deployment Methods
 
 ### 1. FORK THIS REPO
 
@@ -72,7 +72,7 @@
     <a href='https://railway.com/github/kingmalvn/Queen_Miku-MD' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=railway&logoColor=white'/></a>
 
     <h2 align="center"> ⚠️ NOTE  </h2>
-## QUEEN_MIKU-MD SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! UNLESS U GIVE CREDIT..
+## QUEEN_GRACEY-MD SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! UNLESS U GIVE CREDIT..
 
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
@@ -88,9 +88,9 @@
 <br>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-* [🧑‍💻 Follow Queen_Miku-MD Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z)
+* [🧑‍💻 Follow Queen Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z)
 
-* [🧑‍💻 Join Queen_Miku-MD Telegram Group 🧑‍💻](https://t.me/malvintech)
+* [🧑‍💻 Join  Telegram Group 🧑‍💻](https://t.me/malvintech)
 
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -100,8 +100,8 @@
 - *In that case, I'm not responsible for banning your account.*
 - *Use Queen_Miku-MD at your own risk by keeping this warning in mind.*
   
-  #### ```MALVIN KING PROFILE VIEWS 🧚```
-![Visitor Count](https://profile-counter.glitch.me/kingmalvn/count.svg)
+  #### ```ALVIN KING PROFILE VIEWS 🧚```
+![Visitor Count](https://profile-counter.glitch.me/Mike352-design/count.svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
