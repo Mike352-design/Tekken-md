@@ -134,7 +134,7 @@ malvins( {
     
     
          let msg = `
-┏━━━❍ Miku Rank ❍━━━┓
+┏━━━❍ ALVINO Rank ❍━━━┓
          
     *Name :* @${auteurMsgRepondu.split("@")[0]}
     
@@ -210,7 +210,7 @@ malvins( {
     
     
          let msg = `
-┏━━━❍ Miku rank ❍━━━┓
+┏━━━❍ ALVINO rank ❍━━━┓
      
   *Name :* ${nomAuteurMessage}
 
