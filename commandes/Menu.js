@@ -34,7 +34,7 @@ const date = moment().format('DD/MM/YYYY');
   let infoMsg =  `
 ╭─────────────────☉
 │▫️╭─────────────☉
-│  │ *QUEEN_MIKU-MD*
+│  │ *QUEEN_GRACIE-MD*//By Alvin//
 │▫️│*BOT-OWNER* : ${s.OWNER_NAME}
 │▫️│*Date* : ${date}
 │▫️│*PREFIX* : ${s.PREFIXE}
@@ -42,20 +42,20 @@ const date = moment().format('DD/MM/YYYY');
 │▫️│*CMDs* : ${cm.length} 
 │▫️│*STORAGE* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │▫️│*RUNNING ON* : ${os.platform()}
-│▫️│*THEME* : *MIKU-MD*
+│▫️│*THEME* : *Alvins-MD*
 │▫️╰──────────────☉
 ╰──────────────────☉
 ╭───────────────☉
- ☉〘 MIKU-MD 〙☉
- ☉by Malvin King☉
+ ☉〘 GRACIE-MD 〙☉
+ ☉by ALVIN,,HACKER IN MAKING☉
 ╰───────────────☉\n`;
     
 let menuMsg = `
 ╭─────────☉
-    *LORD MALVIN*
+    *ALVIN*
 ╰─────────☉
 
- *⚡QUEEN MIKU-MD COMMAND LIST⚡*
+ *⚡QUEEN GRACIE-MD COMMAND LIST⚡*
 `;
 
     for (const cat in coms) {
@@ -71,10 +71,10 @@ let menuMsg = `
     menuMsg += `
             
 *———————————————————————————*
-|▫️MIKU-MD
-|▫️a Multi device whatsapp bot
-|▫️Created by _Malvin King_
-|▫️_Repo_ :https://github.com/kingmalvn/Queen_Miku-MD
+|▫️ GRACIE-MD
+|▫️HATA NIKUAMBIE I LUV U CHOREA 
+|▫️Created by _ALVIN MWANGI_
+|▫️_Repo_ :https://github.com/Mike352-design/Tekken-md
 *———————————————————————————*
 `;
 
