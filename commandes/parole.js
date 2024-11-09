@@ -18,7 +18,7 @@ malvins({ nomCom: "lyrics",
 
     if (lyrics.error) return repondre("no lyrics found");
 
-    let msg = `---------*Queen-Miku-md*--------
+    let msg = `---------*Queen-GRACIE-md*--------
 
 * *Artist :* ${lyrics.artist}
 
