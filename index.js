@@ -1,4 +1,4 @@
-"use strict";
+we"use strict";
 var __createBinding = (this && this.__createBinding) || (Object.create ? (function(o, m, k, k2) {
     if (k2 === undefined) k2 = k;
   var desc = Object.getOwnPropertyDescriptor(m, k);
@@ -881,8 +881,8 @@ ${metadata.desc}`;
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `╭═══『 AI 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝』══⊷
-║✑ *Miku MD IS ACTIVE NOW*
-║ ʙᴏᴛ ɴᴀᴍᴇ : *Queen_Miku-MD*
+║✑ *Alvin's GRACIE-MD IS ACTIVE NOW*
+║ ʙᴏᴛ ɴᴀᴍᴇ : *Queen_GRACIE-MD*
 ║ ᴘʀᴇғɪx : *[ ${prefixe} ]*
 ║ ᴍᴏᴅᴇ : *${md}*
 ║ ᴛᴏᴛᴀʟ ᴘʟᴜɢɪɴs : *${evt.cm.lenght}*
