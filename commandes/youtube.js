@@ -29,7 +29,7 @@ malvins({
           
        let infoMess = {
           image: {url : videos[0]. thumbnail},
-         caption : `\n*QUEEN-MIKU* song downloader📂\n\n*song name : _${videos[0].title}_
+         caption : `\n*QUEEN-GRACIE* song downloader📂\n\n*song name : _${videos[0].title}_
 
 Time : _${videos[0].timestamp}_
 
@@ -103,7 +103,7 @@ malvins({
 
       let InfoMess = {
         image: { url: videos[0].thumbnail },
-        caption: `*QUEEN-MIKU* song downloader📂\n\nVideo name : _${Element.title}_
+        caption: `*QUEEN-GRACIE* song downloader📂\n\nVideo name : _${Element.title}_
 Time : _${Element.timestamp}_
 Url : _${Element.url}_
 _\n*QUEEN-MIKU* is downloading the file_\n\n`
