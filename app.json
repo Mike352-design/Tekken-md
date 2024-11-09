@@ -1,16 +1,16 @@
 {
-  "name":"Queen_Miku-MD",
-  "description":"Deploy your Queen Miku MD now ,Brought to you by the Malvin King.Make sure you fill all valuables to avoid bot from sleeping. ",
+  "name":"Queen_GRACIE-MD",
+  "description":"MAN CITY FAN",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://c.top4top.io/p_3235wgt8w1.jpg",
-  "repository":"https://github.com/kingmalvn/Queen-Miku-MD",
+  "logo":"https://litter.catbox.moe/pt5rht.jpg",
+  "repository":"https://github.com/Mike352-design/Tekken-md",
   "succes_url":"/",
   "stack":"container",
   "env":{
     "PREFIX":
     {
       "description":"choose your prefix of bot",
-      "value":".",
+      "value":"-",
       "required":true
     },
     "AUTO_READ_STATUS":
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"QUEEN MIKU MD",
+      "value":"QUEEN GRACIE MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"DONT EDIT THIS,  SKIP IT.!!!! .",
-      "value":"https://c.top4top.io/p_3235wgt8w1.jpg",
+      "value":"https://litter.catbox.moe/pt5rht.jpg",
       "required":false
        
      },
@@ -76,14 +76,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Malvin King"
+    "value": "ALVINO"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of Zimbabwe '263')",
     "required":false,
-    "value": "263714757857"
+    "value": "254743624539"
   },
     "WARN_COUNT":
   {
@@ -99,12 +99,12 @@
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-    "value":"",  
+    "value":"3",  
     "required": false
   },
   "ANTI_DELETE_MESSAGE" : {
     "description": "if you want to enable anti delete message put yes else put no",
-    "value": "no",
+    "value": "yes",
     "required": false
   }
   },
