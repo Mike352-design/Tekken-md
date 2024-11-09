@@ -10,10 +10,22 @@
 
 ---
 
-<p align="center"><img src="https://moe-counter.glitch.me/get/@QUEEN_MIKU-MD?theme=gelbooru" alt="Queen_Miku-MD_Visits_Counter" /></p>
+<p align="center"><img src="https://moe-counter.glitch.me/get/@QUEEN_MIKU-MD?theme=miku" alt="Queen_Miku-MD_Visits_Counter" /></p>
 
 
 
+<div align="center">
+    
+| Owner 👤             | Repo 🤖              | Forks 🍽️             | Stars 🌟            | Language 🗣️        | Licence 🪪              
+|----------------------|----------------------|----------------------|---------------------|---------------------|---------------------|
+| [![Owner](https://img.shields.io/badge/Author-Malvin_King-red.svg)](https://github.com/kingmalvn/) | [![Repository](https://img.shields.io/badge/Repo_Queen_Miku-MD-red.svg)](https://github.com/kingmalvn/Queen_Miku-MD) | [![GitHub forks](https://badgen.net/github/forks/kingmalvn/Queen_Miku-MD/)](https://GitHub.com/kingmalvn/Queen_Miku-MD/network/) | [![GitHub stars](https://badgen.net/github/stars/kingmalvn/Queen_Miku-MD)](https://GitHub.com/kingmalvn/QUEEN_MIKU-MD/stargazers/) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | [![GitHub license](https://img.shields.io/github/license/kingmalvn/Queen_Miku-MD.svg)](https://github.com/kingmalvn/Queen_Miku-MD/blob/master/LICENSE) 
+
+| Version 💻              | Last Commit 💫              | Maintained 🤌🏻             |
+|---------------------|---------------------|---------------------|
+| [![GitHub release](https://img.shields.io/github/release/kingmalvn/Queen_Miku-MD.svg)](https://GitHub.com/kingmalvn/Queen_Miku-MD/releases/) | [![GitHub latest commit](https://badgen.net/github/last-commit/kingmalvn/Queen_Miku-MD)](https://GitHub.com/kingmalvn/Queen_Miku-MD/commit/) | [![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://GitHub.com/kingmalvn/Queen_Miku-MD/graphs/commit-activity) |
+
+</div>
+</details>
 
 
 
