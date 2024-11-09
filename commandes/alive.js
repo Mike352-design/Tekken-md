@@ -43,7 +43,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- _QUEEN MIKU_`
+ _QUEEN GRACIE_`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
@@ -88,7 +88,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre(' _*QEEN MIKU MD*_. ')
+repondre(' _*QEEN GRACIE MD*_. ')
 
 }
     });
