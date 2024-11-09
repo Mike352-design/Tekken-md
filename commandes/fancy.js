@@ -8,7 +8,7 @@ malvins({ nomCom: "fancy", categorie: "Fun", reaction: "☑️" }, async (dest, 
 
     try {
         if (id === undefined || text === undefined) {
-            return await repondre(`\nExemple : ${prefixe}fancy 24 QUEEN_MIKU-MD\n` + String.fromCharCode(8206).repeat(4001) + fancy.list('Miku-md', fancy));
+            return await repondre(`\nExemple : ${prefixe}fancy 24 QUEEN_GRACIE-MD\n` + String.fromCharCode(8206).repeat(4001) + fancy.list('GRACIE-md', fancy));
         }
 
         const selectedStyle = fancy[parseInt(id) - 1];
