@@ -1,3 +1,23 @@
+
+   <img src="https://c.top4top.io/p_3235wgt8w1.jpg">
+</p>
+
+<h1 align="center">QUEEN_MIKU-MD - MultiDevice</h1>
+
+<p align="center">
+  <a href="https://github.com/PikaBotz"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Queen+Miku+MultiDevice;New+Plugin+Base+Modification;Developed+by+Malvin+King;Give+star+and+forks+this+Repo+🌟" alt="AnyaReadme"></a>
+</p>
+
+---
+
+<p align="center"><img src="https://moe-counter.glitch.me/get/@QUEEN_MIKU-MD?theme=gelbooru" alt="Queen_Miku-MD_Visits_Counter" /></p>
+
+
+
+
+
+
+
 ## QUEEN_MIKU-MD Deployment Methods
 
 ### 1. FORK THIS REPO
