@@ -32,13 +32,13 @@ malvins({ nomCom: "tagall", categorie: 'Group', reaction: "📣" }, async (dest,
   let membresGroupe = verifGroupe ? await infosGroupe.participants : ""
   var tag = ""; 
   tag += `========================\n  
-        *Queen Miku-Md*
+        *Queen GRACIE-Md*
 ========================\n
 👥 Group : ${nomGroupe} 🚀 
 👤 Autor : *${nomAuteurMessage}* 👋 
 📜 Message : *${mess}* 📝
 
-⬡keep using⬡┃MIKU-MD┃⬡
+⬡keep using⬡┃GRACIE-MD┃⬡
 ========================\n
 \n
 
@@ -743,7 +743,7 @@ malvins({ nomCom: "apk", reaction: "✨", categorie: "Research" }, async (dest, 
 
     const downloadLink = appData.dllink;
     const captionText =
-      "⬡┃ QUEEN MIKU┃⬡apk downloader┃⬡\n\n*Name :* " + appData.name +
+      "⬡┃ QUEEN GRACIE┃⬡apk downloader┃⬡\n\n*Name :* " + appData.name +
       "\n*Id :* " + appData["package"] +
       "\n*Last Update :* " + appData.lastup +
       "\n*Size :* " + appData.size +
